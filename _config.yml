@@ -42,7 +42,7 @@ timezone:      null
 title: I'M OPPIH
 description: Just another blog from oppih.
 keywords: Jekyll Theme, blog, oppih
-url: http://oppih.me
+url: http://oppih.github.io
 feed: /atom.xml
 favicon: http://jekyllrb.com/favicon.png
 
