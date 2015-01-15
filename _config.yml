@@ -50,14 +50,18 @@ favicon: http://jekyllrb.com/favicon.png
 nav:
   - text: 首页
     url: /index.html
+  - text: 生活随笔
+    url: /journal
   - text: 分类目录
     url: /categories.html
   - text: 文章归档
     url: /archives.html
   - text: 联系我
     url: /contact.html
-  - text: 友情链接
+  - text: 链接
     url: /links.html
+  - text: 「调」皮
+    url: /leathercraft
 
 #Author config
 author:
