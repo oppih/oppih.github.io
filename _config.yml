@@ -83,18 +83,14 @@ follow:
     url: /atom.xml
   - class: icon-weibo
     url: http://weibo.com/u/1667994270
-  #- class: icon-renren
-  #  url: http://renren.com
-  - class: icon-github-alt
-    url: http://github.com/oppih
   - class: icon-twitter
     url: http://twitter.com/oppih28
-  -class: icon-instagram
+  - class: icon-instagram
     url: http://instagram.com/oppih
-  -class: icon-stackoverflow
+  - class: icon-stackexchange
     url: http://stackoverflow.com/users/1029157/oppih
-  #- class: icon-google-plus
-  #  url: http://google.com
+  - class: icon-github-alt
+    url: http://github.com/oppih
 
 #Links
 customLinks:
