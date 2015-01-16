@@ -119,7 +119,7 @@ googleAnaly:
 #comment config
 disqus:
   config: true
-  id: oppih-me
+  id: oppihongithub
 
 duoshuo:
   config: false
